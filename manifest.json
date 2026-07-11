@@ -1,0 +1,10 @@
+{
+	"id": "quiet-embed",
+	"name": "Quiet Embed",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Make note embeds blend into the document while keeping quick navigation to the source note.",
+	"author": "JaewonE",
+	"authorUrl": "https://github.com/jaewonE",
+	"isDesktopOnly": false
+}
