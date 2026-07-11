@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+
+- Added a before-and-after demo image to the English and Korean documentation.
+
 ## 1.0.0
 
 - Initial stable release of Quiet Embed.

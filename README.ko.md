@@ -2,6 +2,8 @@
 
 [ [English](https://github.com/jaewonE/quiet-embed) | [한국어](https://github.com/jaewonE/quiet-embed/blob/master/README.ko.md) ]
 
+![Quiet Embed before and after demo](assets/demo.png)
+
 Quiet Embed는 Markdown 노트 임베드를 일반 문서 내용처럼 보이게 만들면서, 원본 노트로 빠르게 이동할 수 있는 방법을 유지합니다.
 
 ## 기능
@@ -32,7 +34,7 @@ Quiet Embed는 명령이나 기본 단축키를 등록하지 않습니다.
 
 ## 설정
 
-Quiet Embed `1.0.0`에는 설정 항목이 없습니다.
+Quiet Embed `1.0.1`에는 설정 항목이 없습니다.
 
 ## 개인정보와 네트워크 접근
 
